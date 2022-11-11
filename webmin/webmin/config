@@ -1,0 +1,12 @@
+upmissing=0
+warn_days=7
+cron_mode=0
+letsencrypt_dns_wait=10
+update=0
+upshow=1
+osdn=1
+updays=1
+last_version_full=2.000
+last_version_check=1668162106
+last_version_release=
+last_version_number=2.000
