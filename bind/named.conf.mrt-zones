@@ -1,0 +1,4 @@
+zone subzoneuph7ao.jaan-lavaerts.sb.uclllabs.be {
+        type master; 
+        file "/etc/bind/zones/mrt-zones/db.subzoneuph7ao.jaan-lavaerts.sb.uclllabs.be";
+    };

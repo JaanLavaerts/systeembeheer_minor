@@ -3,7 +3,7 @@
 ;
 $TTL	604800
 @	IN	SOA	localhost. root.localhost. (
-			      3		; Serial
+			      141867		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
@@ -19,3 +19,5 @@ ns     IN      A       193.191.177.158
 
 www     IN      A       193.191.177.158
 test    IN      A       193.191.177.254
+subzoneuph7ao     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneuph7ao     IN      A       193.191.177.158
