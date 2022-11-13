@@ -9,5 +9,16 @@
 zone "jaan-lavaerts.sb.uclllabs.be" {
     type master;
     file "/etc/bind/zones/forward.jaan-lavaerts.sb.uclllabs.be";
+    allow-transfer { 193.191.176.254; 193.191.177.4; 193.191.177.148; };
+    also-notify { 193.191.177.148; };
 };
+
+
+zone "dries-decuyper.sb.uclllabs.be" {
+	type slave;
+	file "/var/cache/bind/forward.dries-decuyper.sb.uclllabs.be";
+	masters { 193.191.177.148; };
+};
+
+include "/etc/bind/named.conf.mrt-zones";
 
