@@ -58,3 +58,7 @@ zone www2.jaan-lavaerts.sb.uclllabs.be {
         type master; 
         file "/etc/bind/zones/mrt-zones/db.www2.jaan-lavaerts.sb.uclllabs.be";
     };
+zone subzoneyoo8ee.jaan-lavaerts.sb.uclllabs.be {
+        type master; 
+        file "/etc/bind/zones/mrt-zones/db.subzoneyoo8ee.jaan-lavaerts.sb.uclllabs.be";
+    };
