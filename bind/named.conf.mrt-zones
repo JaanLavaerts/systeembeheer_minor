@@ -62,3 +62,15 @@ zone subzoneyoo8ee.jaan-lavaerts.sb.uclllabs.be {
         type master; 
         file "/etc/bind/zones/mrt-zones/db.subzoneyoo8ee.jaan-lavaerts.sb.uclllabs.be";
     };
+zone subzoneozah9o.jaan-lavaerts.sb.uclllabs.be {
+        type master; 
+        file "/etc/bind/zones/mrt-zones/db.subzoneozah9o.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonexohe7a.jaan-lavaerts.sb.uclllabs.be {
+        type master; 
+        file "/etc/bind/zones/mrt-zones/db.subzonexohe7a.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneyei2oo.jaan-lavaerts.sb.uclllabs.be {
+        type master; 
+        file "/etc/bind/zones/mrt-zones/db.subzoneyei2oo.jaan-lavaerts.sb.uclllabs.be";
+    };

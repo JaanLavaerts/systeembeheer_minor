@@ -3,7 +3,7 @@
 ;
 $TTL	604800
 @	IN	SOA	localhost. root.localhost. (
-			      230115		; Serial
+			      267598		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
@@ -51,3 +51,9 @@ www2     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
 www2     IN      A       193.191.177.158
 subzoneyoo8ee     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
 subzoneyoo8ee     IN      A       193.191.177.158
+subzoneozah9o     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneozah9o     IN      A       193.191.177.158
+subzonexohe7a     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonexohe7a     IN      A       193.191.177.158
+subzoneyei2oo     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneyei2oo     IN      A       193.191.177.158
