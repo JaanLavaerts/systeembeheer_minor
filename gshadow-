@@ -56,3 +56,6 @@ uuidd:!::
 tcpdump:!::
 check:!::
 ntp:!::
+bind:!::
+mysql:!::
+dovecot:!::

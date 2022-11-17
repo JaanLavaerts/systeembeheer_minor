@@ -18,7 +18,7 @@ fi
 
 # add the zone to config file
 echo "zone $1.jaan-lavaerts.sb.uclllabs.be {
-        type master; 
+        type master;
         file \"/etc/bind/zones/mrt-zones/db.$1.jaan-lavaerts.sb.uclllabs.be\";
     };" >> /etc/bind/named.conf.mrt-zones
 
@@ -41,7 +41,7 @@ echo "\$TTL 604800
 echo "$1     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be." >> /etc/bind/zones/forward.jaan-lavaerts.sb.uclllabs.be
 echo "$1     IN      A       193.191.177.158" >> /etc/bind/zones/forward.jaan-lavaerts.sb.uclllabs.be
 
-perl -i -pe "/Serial/ && s/(\d+)/$RANDOM/e" /etc/bind/zones/forward.jaan-lavaerts.sb.uclllabs.be
+perl -i -pe '/Serial/ && s/(\d+)/$1+1 . $2/e' /etc/bind/zones/forward.jaan-lavaerts.sb.uclllabs.be
 
 systemctl restart bind9
 systemctl restart named

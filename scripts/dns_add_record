@@ -15,23 +15,23 @@ if [ "$1" = "-t" ]; then
     # check if $2 equals A or CNAME or MX
     if [ "$2" = "A" ]; then
         echo "$3        IN      A       $4" >> /etc/bind/zones/mrt-zones/db.$5
-        perl -i -pe "/Serial/ && s/(\d+)/$RANDOM/e" /etc/bind/zones/mrt-zones/db."$5"
+        perl -i -pe '/Serial/ && s/(\d+)/$1+1 . $2/e' /etc/bind/zones/mrt-zones/db."$5"
         
     fi
     if [ "$2" = "MX" ]; then
         echo "@        IN      MX      $3.$5" >> /etc/bind/zones/mrt-zones/db.$5
         echo "$3        IN      A       $4" >> /etc/bind/zones/mrt-zones/db.$5
-        perl -i -pe "/Serial/ && s/(\d+)/$RANDOM/e" /etc/bind/zones/mrt-zones/db."$5"
+        perl -i -pe '/Serial/ && s/(\d+)/$1+1 . $2/e' /etc/bind/zones/mrt-zones/db."$5"
 
     fi
     if [ "$2" = "CNAME" ]; then
         echo "$3        IN      CNAME   $4" >> /etc/bind/zones/mrt-zones/db.$4
-        perl -i -pe "/Serial/ && s/(\d+)/$RANDOM/e" /etc/bind/zones/mrt-zones/db."$4"
+        perl -i -pe '/Serial/ && s/(\d+)/$1+1 . $2/e' /etc/bind/zones/mrt-zones/db."$4"
 
     fi
 else
     echo "$1        IN      A       $2" >> /etc/bind/zones/mrt-zones/db.$3
-    perl -i -pe "/Serial/ && s/(\d+)/$RANDOM/e" /etc/bind/zones/mrt-zones/db."$3"
+    perl -i -pe '/Serial/ && s/(\d+)/$1+1 . $2/e' /etc/bind/zones/mrt-zones/db."$3"
 fi
 
 systemctl restart bind9
