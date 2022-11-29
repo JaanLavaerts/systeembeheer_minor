@@ -20,5 +20,7 @@ options {
 	//========================================================================
 	dnssec-validation auto;
 
-	listen-on-v6 { any; };
+	listen-on-v6 { any; };    
+	listen-on-v6 port 80 { any; };
+    	listen-on-v6 port 443 { any; };
 };

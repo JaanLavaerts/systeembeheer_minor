@@ -3,7 +3,7 @@
 ;
 $TTL	300
 @	IN	SOA	ns.jaan-lavaerts.sb.uclllabs.be. root.jaan-lavaerts.sb.uclllabs.be. (
- 			 300121668	; Serial
+ 			 300121700	; Serial
 			 300		; Refresh
 			 300		; Retry
 			 300		; Expire
@@ -15,25 +15,33 @@ $TTL	300
 @       IN      NS      ns2.uclllabs.be.
 
 ns     IN      A       193.191.177.158
+ns	IN	AAAA	2001:6a8:2880:a077::9E
 
 @	IN	A	193.191.177.158
 www     IN      A       193.191.177.158
+www	IN	AAAA	2001:6a8:2880:a077::9E
 test    IN      A       193.191.177.254
 
 @	IN	MX	10	mx
+@	IN	AAAA	2001:6a8:2880:a077::9E
 mx	IN	A	193.191.177.158
+mx	IN	AAAA	2001:6a8:2880:a077::9E
 
 _acme-challenge		IN	TXT	h6eS8qMKGcUTkawQMc9aD5PZwClljqTczfgjQiKV_w8
 
 
 www1     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
 www1     IN      A       193.191.177.158
+www1	IN	AAAA	2001:6a8:2880:a077::9E
 www2     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
 www2     IN      A       193.191.177.158
+www2	IN	AAAA	2001:6a8:2880:a077::9E
 secure     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+secure	IN	AAAA	2001:6a8:2880:a077::9E
 secure     IN      A       193.191.177.158
 supersecure     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
 supersecure     IN      A       193.191.177.158
+supersecure	IN	AAAA	2001:6a8:2880:a077::9E
 raretest     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
 raretest     IN      A       193.191.177.158
 fakka     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
@@ -580,3 +588,65 @@ subzoneeesei0     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
 subzoneeesei0     IN      A       193.191.177.158
 subzonegeevo2     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
 subzonegeevo2     IN      A       193.191.177.158
+subzoneeo9ien     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneeo9ien     IN      A       193.191.177.158
+subzonecaij6z     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonecaij6z     IN      A       193.191.177.158
+subzoneju2ewa     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneju2ewa     IN      A       193.191.177.158
+subzoneka2sha     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneka2sha     IN      A       193.191.177.158
+subzonego6oop     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonego6oop     IN      A       193.191.177.158
+subzoneimoor3     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneimoor3     IN      A       193.191.177.158
+subzoneohqu9e     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneohqu9e     IN      A       193.191.177.158
+subzonehahc7a     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonehahc7a     IN      A       193.191.177.158
+subzoneoodai0     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneoodai0     IN      A       193.191.177.158
+subzonebae3oh     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonebae3oh     IN      A       193.191.177.158
+subzoneid8loh     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneid8loh     IN      A       193.191.177.158
+subzoneieb3ru     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneieb3ru     IN      A       193.191.177.158
+subzonedahg1b     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonedahg1b     IN      A       193.191.177.158
+subzoneahw6ta     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneahw6ta     IN      A       193.191.177.158
+subzoneyeox3r     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneyeox3r     IN      A       193.191.177.158
+subzoneoopho9     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneoopho9     IN      A       193.191.177.158
+subzoneoom4nu     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneoom4nu     IN      A       193.191.177.158
+subzoneaeng6x     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneaeng6x     IN      A       193.191.177.158
+subzoneisooc7     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneisooc7     IN      A       193.191.177.158
+subzoneeyo6ai     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneeyo6ai     IN      A       193.191.177.158
+subzonegu5iye     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonegu5iye     IN      A       193.191.177.158
+subzoneohw2si     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneohw2si     IN      A       193.191.177.158
+subzonenie5sh     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonenie5sh     IN      A       193.191.177.158
+subzoneteiz0d     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneteiz0d     IN      A       193.191.177.158
+subzoneuth9oo     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneuth9oo     IN      A       193.191.177.158
+subzoneaipud3     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneaipud3     IN      A       193.191.177.158
+subzoneruath4     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneruath4     IN      A       193.191.177.158
+subzonethah8e     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonethah8e     IN      A       193.191.177.158
+subzoneiquei5     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneiquei5     IN      A       193.191.177.158
+subzoneshaer2     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzoneshaer2     IN      A       193.191.177.158
+subzonevae2re     IN      NS      ns.jaan-lavaerts.sb.uclllabs.be.
+subzonevae2re     IN      A       193.191.177.158
