@@ -6,3 +6,9 @@ iface he-ipv6 inet6 v4tunnel
         local 193.191.177.158
         ttl 255
         gateway 2001:470:1f14:dfd::1
+
+auto eth0
+iface eth0 inet6 static
+        address 2001:6a8:2880:a077::9e
+        netmask 64
+        gateway 2001:6a8:2880:a077::1
