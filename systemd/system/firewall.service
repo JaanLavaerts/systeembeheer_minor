@@ -1,0 +1,14 @@
+[Unit]
+Description=Firewall iptable
+#Before=network-pre.target
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/etc/iptables/firewall start
+ExecStop=/etc/iptables/firewall stop
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
