@@ -2070,3 +2070,931 @@ zone subzoneeipha8.jaan-lavaerts.sb.uclllabs.be {
         type master;
         file "/etc/bind/zones/mrt-zones/db.subzoneeipha8.jaan-lavaerts.sb.uclllabs.be";
     };
+zone subzoneyo8ain.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneyo8ain.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneji6oha.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneji6oha.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeewu4i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeewu4i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneohh9ai.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneohh9ai.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneer1lii.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneer1lii.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonequood7.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonequood7.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeedai9.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeedai9.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneyuu7ah.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneyuu7ah.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonehain6a.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonehain6a.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaizo3i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaizo3i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneci0sei.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneci0sei.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonejeinu7.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonejeinu7.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeiyah5.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeiyah5.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonejeequ8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonejeequ8.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonezil4fo.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonezil4fo.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeekam3.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeekam3.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonexoo3zo.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonexoo3zo.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneushee7.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneushee7.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonedutie1.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonedutie1.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeege7e.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeege7e.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonemi7iex.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonemi7iex.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonezooqu7.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonezooqu7.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneohn5ch.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneohn5ch.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonemoo2re.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonemoo2re.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonehaequ9.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonehaequ9.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneuch6ph.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneuch6ph.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneax8wi5.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneax8wi5.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneioj4ae.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneioj4ae.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeuhoh1.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeuhoh1.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonequoh7b.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonequoh7b.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaeb2ie.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaeb2ie.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonevie1ie.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonevie1ie.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonephie9g.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonephie9g.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneish4gu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneish4gu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaec2ce.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaec2ce.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoj6eod.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoj6eod.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonegoo8qu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonegoo8qu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefaatu6.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefaatu6.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonepheeg2.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonepheeg2.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonerai1ph.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonerai1ph.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneha8oco.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneha8oco.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeg1qua.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeg1qua.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonelohv0r.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonelohv0r.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonepho7ye.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonepho7ye.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonejee0ho.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonejee0ho.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonedie2qu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonedie2qu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneko8ahy.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneko8ahy.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeew5yi.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeew5yi.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonechai4z.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonechai4z.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefoo0oh.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefoo0oh.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneuti9fi.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneuti9fi.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneve4thi.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneve4thi.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeeth9u.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeeth9u.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeicai0.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeicai0.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaetha4.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaetha4.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneja4pho.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneja4pho.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneooqu3o.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneooqu3o.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneloh0ch.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneloh0ch.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaizoh6.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaizoh6.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeph4ae.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeph4ae.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonekaa3oo.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonekaa3oo.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneweep5i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneweep5i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaith3a.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaith3a.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonecu4soh.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonecu4soh.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonedohy0i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonedohy0i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaej4yu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaej4yu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonezoop1f.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonezoop1f.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonenejah5.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonenejah5.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahf6ah.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahf6ah.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonehat3be.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonehat3be.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonevool4f.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonevool4f.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahvi7r.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahvi7r.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonekahs3y.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonekahs3y.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoip2ah.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoip2ah.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneuer9ie.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneuer9ie.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneza9pho.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneza9pho.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneyai5qu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneyai5qu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaixoh1.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaixoh1.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonenee9ap.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonenee9ap.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoki2no.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoki2no.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoe5ini.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoe5ini.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonephah5u.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonephah5u.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiaja0a.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiaja0a.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoop9le.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoop9le.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneorei9d.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneorei9d.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonewi2coh.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonewi2coh.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiet9ei.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiet9ei.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneais9do.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneais9do.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonegoosh7.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonegoosh7.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonegohj5u.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonegohj5u.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeeb3ol.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeeb3ol.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonede8ool.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonede8ool.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneliet6e.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneliet6e.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahd4et.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahd4et.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneku7cei.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneku7cei.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonezios5m.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonezios5m.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneseex2o.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneseex2o.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahvu7y.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahvu7y.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiethi0.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiethi0.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonepihu3e.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonepihu3e.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonedoo0va.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonedoo0va.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonele5kei.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonele5kei.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneuk1zie.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneuk1zie.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeedei8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeedei8.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneooz8oh.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneooz8oh.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoijed8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoijed8.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonetais2i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonetais2i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaex1lu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaex1lu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonephei6g.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonephei6g.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefe5quu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefe5quu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonechei1u.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonechei1u.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiach1i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiach1i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonepiebi9.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonepiebi9.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaxiev7.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaxiev7.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefa2aec.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefa2aec.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahyat3.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahyat3.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiepie5.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiepie5.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonehi3esh.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonehi3esh.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonexahk1m.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonexahk1m.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiesu5o.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiesu5o.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonejahd2e.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonejahd2e.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonexi2fuv.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonexi2fuv.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneohgh9i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneohgh9i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonezahs5y.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonezahs5y.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonemoo9ie.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonemoo9ie.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonegier5i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonegier5i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaexee2.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaexee2.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneohkai2.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneohkai2.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoojah2.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoojah2.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoimou0.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoimou0.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiquee2.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiquee2.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahhei8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahhei8.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahx8vi.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahx8vi.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefahsa2.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefahsa2.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonetah7yu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonetah7yu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiezab8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiezab8.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonejig4ah.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonejig4ah.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneagei0s.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneagei0s.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoogh1n.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoogh1n.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefoir8a.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefoir8a.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneael8su.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneael8su.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneweiph5.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneweiph5.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonewohe7e.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonewohe7e.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonecaj0ei.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonecaj0ei.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaizae5.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaizae5.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneyai0ek.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneyai0ek.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneuo9too.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneuo9too.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneohmue4.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneohmue4.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaeyie9.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaeyie9.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonechohz1.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonechohz1.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonezoh1lu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonezoh1lu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonelaev9v.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonelaev9v.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonethae7l.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonethae7l.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahsh5d.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahsh5d.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaifoh0.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaifoh0.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonehek3to.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonehek3to.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonepahx3r.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonepahx3r.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefooph5.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefooph5.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonetei9sh.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonetei9sh.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeikai1.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeikai1.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeh7ien.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeh7ien.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneua7cie.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneua7cie.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonenae1iv.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonenae1iv.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaic2qu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaic2qu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonelai9bu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonelai9bu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneae8ohf.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneae8ohf.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonenoo5th.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonenoo5th.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahqu2n.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahqu2n.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonelahph8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonelahph8.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahdoo8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahdoo8.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefoh2id.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefoh2id.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeis0ie.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeis0ie.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeesh0e.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeesh0e.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaed3ge.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaed3ge.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneohzie9.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneohzie9.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneook4ci.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneook4ci.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaepa8u.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaepa8u.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonelee0ie.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonelee0ie.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaexai4.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaexai4.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiuk5az.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiuk5az.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneniesi6.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneniesi6.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonede1chi.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonede1chi.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonezi0aeg.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonezi0aeg.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahh3cu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahh3cu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonejoo4ei.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonejoo4ei.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonebohng7.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonebohng7.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneii0toh.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneii0toh.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonewah7oh.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonewah7oh.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneee4bah.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneee4bah.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahx4no.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahx4no.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonexie3fu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonexie3fu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonecoox9f.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonecoox9f.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaepa3z.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaepa3z.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneoquai1.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneoquai1.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaevoo3.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaevoo3.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonexohr4p.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonexohr4p.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaequa8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaequa8.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahqui2.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahqui2.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonepi6aib.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonepi6aib.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneuef7an.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneuef7an.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaeth4n.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaeth4n.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahmei4.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahmei4.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonecae6wa.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonecae6wa.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonesoh0ei.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonesoh0ei.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneohsh4o.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneohsh4o.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneziesh5.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneziesh5.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonevei3ee.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonevei3ee.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneael4oo.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneael4oo.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonequah4i.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonequah4i.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonegai1hu.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonegai1hu.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneiex4ke.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneiex4ke.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonelae4ee.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonelae4ee.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonepuvu3h.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonepuvu3h.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonepi9chi.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonepi9chi.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonesoh4da.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonesoh4da.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonedeif0e.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonedeif0e.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneeivep7.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneeivep7.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaeth0g.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaeth0g.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneagah4j.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneagah4j.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonelooz4h.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonelooz4h.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneac0oov.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneac0oov.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonekoos4l.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonekoos4l.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonewieph6.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonewieph6.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonecai3jo.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonecai3jo.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneohba7m.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneohba7m.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonedie1az.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonedie1az.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaj9tho.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaj9tho.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaey3ch.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaey3ch.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneahsh9u.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneahsh9u.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonefeish1.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonefeish1.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzoneaes5th.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzoneaes5th.jaan-lavaerts.sb.uclllabs.be";
+    };
+zone subzonere4bo8.jaan-lavaerts.sb.uclllabs.be {
+        type master;
+        file "/etc/bind/zones/mrt-zones/db.subzonere4bo8.jaan-lavaerts.sb.uclllabs.be";
+    };
